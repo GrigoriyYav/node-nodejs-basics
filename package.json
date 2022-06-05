@@ -13,7 +13,8 @@
     "fs:rename": "node src/fs/rename.js",
     "cli:args": "node src/cli/args.js",
     "cli:env": "node src/cli/env.js",
-    "modules": "node src/modules/cjsToEsm.mjs"
+    "modules": "node src/modules/cjsToEsm.mjs",
+    "hash": "node src/hash/calcHash.js"
   },
   "repository": {
     "type": "git",
